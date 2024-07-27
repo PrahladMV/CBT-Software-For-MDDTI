@@ -56,7 +56,10 @@ This will allow you to view and test your website locally.
 Feel free to contact me if there are any issues with this Full Stack application. 
 
 Github: PrahladMV
+
 Gmail: prahladmv@gmail.com
+
+Team: Prahlad MV, Arhan SD, Archita Sindigi, Adeeb Ulla, Anshuman S
 
 
 
