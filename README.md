@@ -53,13 +53,16 @@ Open your browser and navigate to:  http://localhost:3000
 
 This will allow you to view and test your website locally.
 
-Feel free to contact me if there are any issues with this Full Stack application. 
+## Credits
+- Following project was done by Prahlad MV, Arhan SD, Archita S, Adeeb U, Rishabh S, Anshuman S
+
+---
+
+This README file provides a comprehensive overview of the CBT Website for MDDTI. For any questions or further assistance, feel free to contact me.
 
 Github: PrahladMV
 
 Gmail: prahladmv@gmail.com
-
-Team: Prahlad MV, Arhan SD, Archita Sindigi, Adeeb Ulla, Anshuman S
 
 
 
